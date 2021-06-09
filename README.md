@@ -12,8 +12,7 @@
 
 #
 ### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RFSID
-&show_icons=true&theme=radical)<br>
+(https://github-readme-stats.vercel.app/api?username=RFSID
 #
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/lihatlah.tidak.ada.yang.peduli.denganmu.02062021.R)
