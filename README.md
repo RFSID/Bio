@@ -14,8 +14,8 @@
 ### Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RFSID&show_icons=true&locale=en" alt="RFSID" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RFSID&label=Profile%20views&color=0e75b6&style=flat" alt="RFSID" /> </p>
 #
+
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/lihatlah.tidak.ada.yang.peduli.denganmu.02062021.R)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6281259833743?text=Asalamualaikum+
